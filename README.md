@@ -2,6 +2,9 @@
 
 A five-objective machine-learning project using IMD subdivision rainfall data. It studies Punjab's June–September (JJAS) rainfall using rainfall data from Punjab and seven neighbouring subdivisions.
 
+## Live Demo
+
+[Open the Punjab Monsoon Rainfall Dashboard]https://predictiveanalysis-1.streamlit.app/
 
 ## Project objectives
 
