@@ -1,8 +1,7 @@
 # Punjab Monsoon Rainfall Analysis
 
-A five-objective machine-learning project using IMD subdivision rainfall data from 1901–2015. It studies Punjab's June–September (JJAS) rainfall using rainfall data from Punjab and seven neighbouring subdivisions.
+A five-objective machine-learning project using IMD subdivision rainfall data. It studies Punjab's June–September (JJAS) rainfall using rainfall data from Punjab and seven neighbouring subdivisions.
 
-> **Streamlit status:** Streamlit has not been installed yet. Install it before running the dashboard. Instructions are in the **Run the dashboard** section below.
 
 ## Project objectives
 
