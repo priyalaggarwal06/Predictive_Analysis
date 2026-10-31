@@ -4,7 +4,7 @@ A five-objective machine-learning project using IMD subdivision rainfall data. I
 
 ## Live Demo
 
-[Open the Punjab Monsoon Rainfall Dashboard]https://predictiveanalysis-1.streamlit.app/
+[Open the Punjab Monsoon Rainfall Dashboard] https://predictiveanalysis-1.streamlit.app/
 
 ## Project objectives
 
