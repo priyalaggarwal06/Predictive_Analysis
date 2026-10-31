@@ -237,7 +237,14 @@ with header_left:
     st.markdown("<p style='color: #94A3B8; font-size: 14px; margin-top: 5px;'>Five-model analysis of JJAS rainfall estimation, drought risk, regional patterns and dimensionality reduction.</p>", unsafe_allow_html=True)
 
 with header_right:
-    st.markdown("<br><div style='text-align: right;'><span class='badge'>✓ Model Analysis Ready</span></div>", unsafe_allow_html=True)
+    st.markdown(
+        """
+        <div style="text-align: right;">
+            <span class="badge">Model Analysis Ready</span>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
 st.markdown("<hr style='border: 1px solid #1F2937; margin-top: 10px; margin-bottom: 24px;'>", unsafe_allow_html=True)
 
@@ -291,7 +298,7 @@ with kpi5:
         </div>
     """, unsafe_allow_html=True)
 
-st.markdown("<br>", unsafe_allow_html=True)
+st.write("")
 
 # ==========================================
 # 5. MAIN CONTENT ROW 1 (Estimation & Clusters)
@@ -318,8 +325,7 @@ with row1_col2:
     """, unsafe_allow_html=True)
     st.markdown("</div>", unsafe_allow_html=True)
 
-st.markdown("<br>", unsafe_allow_html=True)
-
+st.write("")
 # ==========================================
 # 6. MAIN CONTENT ROW 2 (Leaderboard & Confusion Matrix)
 # ==========================================
@@ -361,7 +367,7 @@ with row2_col2:
     """, unsafe_allow_html=True)
     st.markdown("</div>", unsafe_allow_html=True)
 
-st.markdown("<br>", unsafe_allow_html=True)
+st.write("")
 
 # ==========================================
 # 7. BOTTOM SECTION (Key Findings & Recommendations)
